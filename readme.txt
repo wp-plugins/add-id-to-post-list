@@ -2,7 +2,7 @@
 Contributors: jorgecastro91
 Tags: admin
 Requires at least: 3.0
-Tested up to: 4.0.1
+Tested up to: 4.2
 License: GPL2
 
 On activation, you will see the ID of every post in the posts list.
