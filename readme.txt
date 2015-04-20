@@ -15,4 +15,4 @@ When working with other plugins, shortcodes and widgets sometimes they ask for t
 2.- Extract it.
 3.- Upload it to wp-content/plugins/
 4.- Go to Plugins in the Wordpress admin of your site.
-5.- Click on \"Activate\".
+5.- Click on \"Activate\"
